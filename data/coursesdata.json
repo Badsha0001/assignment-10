@@ -1,0 +1,50 @@
+[
+    {
+      "picture": "https://cdn.10minuteschool.com/lg/images/thumbnails/ghore_boshe_spoken_english_course_thumbnail_by_munzereen_shahid.jpg",
+      "_id": "abc1",
+      "title": "ঘরে বসে Spoken English",
+      "author": "Munzereen Shahid",
+      "category_id":"1",
+      "body": "Learn how to speak English fluently and be a confident English speaker in your everyday life. It is a complete Spoken English course for beginners."
+    },
+    {
+      "picture": "https://cdn.10minuteschool.com/lg/images/thumbnails/chakrijibider_jonno_english_thumbnail_16_9.jpg",
+      "_id": "abc2",
+      "title": "চাকরিজীবীদের জন্য English",
+      "category_id":"1",
+      "author": "Munzereen Shahid",
+      "body": "Learn both written and spoken English for getting ahead in professional spheres. An all inclusive course of effective English communication for professionals."
+    },
+    {
+      "picture": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/Programming-for-Kids-Course-Thumbnail.jpg",
+      "_id": "abc3",
+      "title": "Programming for kids",
+      "category_id":"2",
+      "author": "Prapty Rahman",
+      "body": "Introduce your kids to the world of programming, through the basics of HTML and CSS. Enrol them today to prepare them for the future of technology!"
+    },
+    {
+      "picture": "https://cdn.10minuteschool.com/lg/images/Thumbnails/24-ghontay-quran-shikhi-Course-Thumbnail-.jpg",
+      "_id": "abc4",
+      "title": "২৪ ঘণ্টায় কোরআন শিখি",
+      "category_id":"3",
+      "author": "মুহাম্মাদ জামাল উদ্দীন",
+      "body": "Learn Quran in Bangla with correct pronunciation. Enroll now to learn Quran easily in 24 hours."
+    },
+    {
+      "picture": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/ut_gbf.jpg",
+      "_id": "abc5",
+      "title": "ঘরে বসে Freelancing",
+      "author": "Joyeta Banerjee",
+      "category_id":"4",
+      "body": "Learn freelancing online from the top-rated freelancing course in Bangladesh. Establish yourself in freelancing marketplaces, get your first client, build a successful portfolio, and make money online right from the comfort of your own home."
+    },
+    {
+      "picture": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/data_entry_freelancing.jpg",
+      "_id": "abc6",
+      "title": "Data Entry দিয়ে Freelancing",
+      "author": "Joyeta Banerjee",
+      "category_id":"4",
+      "body": "Learn Data Entry to get data entry jobs and start earning through freelancing. Get the best guidelines from a top-rated freelancer about Data Entry to start your career."
+    }
+  ]

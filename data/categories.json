@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "English Course"
+    },
+    {
+        "id": "2",
+        "name": "Programming"
+    },
+    {
+        "id": "3",
+        "name": "Learn Al-Quran"
+    },
+    {
+        "id": "4",
+        "name": "Freelancing"
+    },
+    {
+        "id": "5",
+        "name": "All Course"
+    }
+]
